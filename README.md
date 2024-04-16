@@ -1,5 +1,7 @@
 # ied-zeppeling-iv-guitar
 
+<img src="https://github.com/KeithGrotter/ied-zeppeling-iv-guitar/blob/main/lz.png"/>
+
 ___
 
 ***Alfred Music, in association with Led Zeppelin, is proud to present new Platinum Album Edition songbooks for each of the band's classic studio recordings. Drawn from more than 30 years of documentation, interviews, and recorded footage, these all-new transcriptions deliver unprecedented accuracy and insight into the guitar style of Jimmy Page. With vintage Zeppelin photographs and a historical foreword by Guitar World magazine's editor-in-chief, Brad Tolinski, each volume is a true collectible every fan must own. Titles: Black Dog * Rock and Roll * The Battle of Evermore * Stairway to Heaven * Misty Mountain Hop * Four Sticks * Going to California * When the Levee Breaks.***
